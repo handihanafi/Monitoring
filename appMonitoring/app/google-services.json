@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "465494404698",
+    "firebase_url": "https://coba-3beac-default-rtdb.firebaseio.com",
+    "project_id": "coba-3beac",
+    "storage_bucket": "coba-3beac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465494404698:android:45a52d65598a59d3f13263",
+        "android_client_info": {
+          "package_name": "com.handi.gasmonitoring"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465494404698-7bk3br67ah3v2egseofj0vun79ekkt9r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGWb1zHChsTLox-JgT8IfMWgiL67i-3Ac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465494404698-7bk3br67ah3v2egseofj0vun79ekkt9r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

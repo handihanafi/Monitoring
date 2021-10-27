@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">gasMonitoring</string>
+    <string name="buttonOff" type="id">buttonOff</string>
+    <string name="buttonOn" type="id">buttonOn</string>
+</resources>
